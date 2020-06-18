@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">endlesssSearchGit</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="please_wait">Please wait another seconds</string>
+    <string name="connected_message">Connect to Internet</string>
+    <string name="disconnect_message">Disconnect from Internet</string>
+    <string name="hint_search">Search Github users</string>
+</resources>
